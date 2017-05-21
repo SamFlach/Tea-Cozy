@@ -1,0 +1,1 @@
+This is my Tea Cozy project. The flex concepts are a little bit confusing at first, but I feel like I’m starting to get the hang of it.
